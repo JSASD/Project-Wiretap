@@ -3,7 +3,7 @@
 import os
 import argparse
 
-from src import phantom
+from src import Args,Gdms
 
 # Set location of current directory for reliable file opening
 __location__ = os.path.realpath(
@@ -13,3 +13,10 @@ __location__ = os.path.realpath(
             __file__)
         )
 )
+
+print('\n')
+
+# Get arguments from console
+#args = Args.getArgs()
+
+Gdms.makeRequest()
