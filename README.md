@@ -1,8 +1,8 @@
 # Project-Wiretap
 
-[Project-Wiretap-Light](/projectWiretap-light.svg#gh-light-mode-only)
+![Project-Wiretap-Light](/projectWiretap-light.svg#gh-light-mode-only)
 
-[Project-Wiretap-Dark](/projectWiretap-dark.svg#gh-dark-mode-only)
+![Project-Wiretap-Dark](/projectWiretap-dark.svg#gh-dark-mode-only)
 
 JSASD Technology April Fools 2023. 'Taps' devices to rick-roll Grandstream GDMS-Managed desk phones systematically via extension number > Room number in a spreadsheet.
 
